@@ -25,7 +25,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hi, what do you want to know about employee experience!',
+        message: 'Hi, what do you want to know about employee experience.',
         type: 'apiMessage',
       },
     ],
